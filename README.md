@@ -1,7 +1,5 @@
 # Unit-Testing-and-Benchmarking-in-Go
 
-# Unit-Testing-and-Benchmarking-in-Go
-
 In-class Lab Assignment 4
 
 ## Simple Calculator
