@@ -39,3 +39,9 @@ func BenchmarkSquare(b *testing.B) {
 		Square(100)
 	}
 }
+
+func BenchmarkDivide(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		Divide(100, 5)
+	}
+}
