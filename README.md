@@ -45,3 +45,7 @@ In the testing file, we handle edge cases such as division by zero, which return
 ### Description
 
 Return the square of a.
+
+### Error Handling
+
+In the testing file, we created a test function to test the correct output of the square function.
