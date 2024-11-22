@@ -34,8 +34,8 @@ func TestSquare(t *testing.T) {
 	}
 }
 
-func BenchmarkDivide(b *testing.B) {
+func BenchmarkSquare(b *testing.B) {
 	for i := 0; i < b.N; i++ {
-		Divide(100, 5)
+		Square(100)
 	}
 }
