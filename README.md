@@ -41,3 +41,7 @@ Returns the quotient of `a` divided by `b`. Throws an error if `b` is 0.
 In the testing file, we handle edge cases such as division by zero, which returns nil. Additionally, if the error message does not match the expected message, an error is thrown.
 
 ## Square Root Operation
+
+### Decsription
+
+Return the square of a.
