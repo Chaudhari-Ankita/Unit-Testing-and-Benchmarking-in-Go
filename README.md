@@ -42,6 +42,6 @@ In the testing file, we handle edge cases such as division by zero, which return
 
 ## Square Root Operation
 
-### Decsription
+### Description
 
 Return the square of a.
