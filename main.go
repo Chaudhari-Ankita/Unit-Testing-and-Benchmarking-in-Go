@@ -11,6 +11,12 @@ func Divide(a, b int) (int, error) {
 	}
 	return a / b, nil
 }
+
+func Square(a int ) int {
+		return a*a
+	}
+
 func main() {
 	fmt.Println(Divide(5, 3))
+	fmt.Println(Square(5))
 }
